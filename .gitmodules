@@ -1,0 +1,6 @@
+[submodule "CodeMirror"]
+	path = CodeMirror
+	url = https://github.com/codemirror/CodeMirror
+[submodule "public/js/CodeMirror"]
+	path = public/js/CodeMirror
+	url = https://github.com/codemirror/CodeMirror
